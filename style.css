@@ -1,0 +1,137 @@
+*{
+	padding: 0px;
+	margin:0px;
+}
+
+body{
+	background-color: black;
+}
+
+.clock{
+	width:500px;
+	height:500px;
+	background-color: gray;
+	margin:auto;
+	border-radius: 100%;
+	border:2px solid red;
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
+	position: absolute;
+}
+
+#three{
+	position: absolute;
+	width:20px;
+	height:5px;
+	top:0px;
+	bottom:0px;
+	right:0px;
+	background-color: blue;
+	margin: auto 0;
+}
+
+#six{
+	position: absolute;
+	width:5px;
+	height:20px;
+	left:0px;
+	bottom:0px;
+	right:0px;
+	background-color: blue;
+	margin:0 auto;
+}
+
+#nine{
+	position: absolute;
+	width:20px;
+	height:5px;
+	top:0px;
+	bottom:0px;
+	left:0px;
+	background-color: blue;
+	margin: auto 0;
+}
+
+
+#twelve{
+	position: absolute;
+	width:5px;
+	height:20px;
+	left:0px;
+	right:0px;
+	top:0px;
+	background-color: blue;
+	margin:0 auto;
+}
+
+
+#hours{
+	width:5px;
+	height:80px;
+	background-color: black;
+	position: absolute;
+	top:0px;
+	right:0px;
+	left:0px;
+	bottom:80px;
+	margin: auto;
+	transform-origin: bottom;
+}
+
+#minutes{
+	width:5px;
+	height:200px;
+	background-color: blue;
+	position: absolute;
+	top:0px;
+	right:0px;
+	left:0px;
+	bottom:200px;
+	margin: auto;
+	transform-origin: bottom;
+}
+
+
+#seconds{
+	width:5px;
+	height:150px;
+	background-color: red;
+	position: absolute;
+	top:0px;
+	right:0px;
+	left:0px;
+	bottom:150px;
+	margin: auto;
+	transform-origin: bottom;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
